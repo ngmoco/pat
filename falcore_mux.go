@@ -1,7 +1,7 @@
 package pat
 
 import (
-	"github.com/ngmoco/falcore"
+	"github.com/fitstar/falcore"
 	"net/http"
 	"net/url"
 )
